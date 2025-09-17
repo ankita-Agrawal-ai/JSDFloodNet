@@ -1,2 +1,5 @@
 # FloodMapping-Repo
-Code and experiments for deep learning and machine learning based flood inundation mapping using Earth Observation data. 
+
+Code and experiments for the **Divergence-Guided Joint Diffusion-Convolution Network (JSDFloodNet)** for multimodal flood inundation mapping.
+
+The code will be available soon.

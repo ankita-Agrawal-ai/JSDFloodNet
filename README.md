@@ -21,7 +21,7 @@ train.py: train model and save model.pkl.
 
 test.py: load model.pkl and run inference to produce segmentation PNG outputs.
 
-utils/model.py: model architecture (UNet-like, accepts combined S1+S2 channels).
+utils/model.py: model architecture (JSDFloodNet (diffusion+CNN), accepts combined S1+S2 channels).
 
 utils/dataset_loader.py: dataset class for Sen1Floods11 (expects paired image and mask files).
 
